@@ -1,1 +1,1 @@
-# LOS-thesis
+# Line-of-Sight (LOS)
