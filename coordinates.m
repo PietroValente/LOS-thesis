@@ -39,3 +39,5 @@ end
 
 pm = propagationModel("raytracing");
 rays = raytrace(tx,rx,pm);
+
+%%TRY
